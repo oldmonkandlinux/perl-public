@@ -25,3 +25,6 @@ Here's the list of programs, and a short decription of what it does:
 19. arr5.pl	-> Sort array by ascending order.
 20. sub1.pl     -> A simple program demonstrating usage of a subroutine.
 21. sub2.pl     -> A simple program demonstrating usage of a subroutine.
+22. rpm.pl      -> check if an rpm can be installed.
+23. file_find1.pl -> Finds text(.txt) files. 
+24. backup.pl   -> Finds files modified the previous day and then zips those files - kind of a backup.
