@@ -1,5 +1,5 @@
 This is a small space where I have uploaded some basic Perl scripts, which were prepared to provide basic Perl Training.
-Anyone who wants to brush up their Perl knowledge can go through these programs.
+Anyone who wants to brush up their Perl knowledge can go through these programs. This is still WIP.
 
 Here's the list of programs, and a short decription of what it does:
 
