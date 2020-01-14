@@ -1,0 +1,50 @@
+Jan 13 19:27:07 ansible-client systemd: Starting Network Manager Script Dispatcher Service...
+Jan 13 19:27:07 ansible-client dbus-daemon: dbus[651]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Jan 13 19:27:07 ansible-client dhclient[3529]: bound to 192.168.1.131 -- renewal in 686 seconds.
+Jan 13 19:27:07 ansible-client dbus[651]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Jan 13 19:27:07 ansible-client dbus-daemon: dbus[651]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Jan 13 19:27:07 ansible-client systemd: Started Network Manager Script Dispatcher Service.
+Jan 13 19:27:07 ansible-client nm-dispatcher: req:1 'dhcp4-change' [ens33]: new request (4 scripts)
+Jan 13 19:27:07 ansible-client nm-dispatcher: req:1 'dhcp4-change' [ens33]: start running ordered scripts...
+Jan 13 19:30:01 ansible-client systemd: Started Session 705 of user root.
+Jan 13 19:30:01 ansible-client systemd: Starting Session 705 of user root.
+Jan 13 19:38:33 ansible-client dhclient[3529]: DHCPREQUEST on ens33 to 192.168.1.254 port 67 (xid=0x361ade63)
+Jan 13 19:38:33 ansible-client dhclient[3529]: DHCPACK from 192.168.1.254 (xid=0x361ade63)
+Jan 13 19:38:33 ansible-client NetworkManager[737]: <info>  [1578924513.6254] dhcp4 (ens33):   address 192.168.1.131
+Jan 13 19:38:33 ansible-client NetworkManager[737]: <info>  [1578924513.6259] dhcp4 (ens33):   plen 24 (255.255.255.0)
+Jan 13 19:38:33 ansible-client NetworkManager[737]: <info>  [1578924513.6260] dhcp4 (ens33):   server identifier 192.168.1.254
+Jan 13 19:38:33 ansible-client NetworkManager[737]: <info>  [1578924513.6260] dhcp4 (ens33):   lease time 1800
+Jan 13 19:38:33 ansible-client NetworkManager[737]: <info>  [1578924513.6260] dhcp4 (ens33):   nameserver '192.168.1.1'
+Jan 13 19:38:33 ansible-client NetworkManager[737]: <info>  [1578924513.6260] dhcp4 (ens33):   domain name 'localdomain'
+Jan 13 19:38:33 ansible-client NetworkManager[737]: <info>  [1578924513.6260] dhcp4 (ens33): state changed bound -> bound
+Jan 13 19:38:33 ansible-client dbus[651]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Jan 13 19:38:33 ansible-client systemd: Starting Network Manager Script Dispatcher Service...
+Jan 13 19:38:33 ansible-client dbus-daemon: dbus[651]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Jan 13 19:38:33 ansible-client dhclient[3529]: bound to 192.168.1.131 -- renewal in 744 seconds.
+Jan 13 19:38:33 ansible-client dbus[651]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Jan 13 19:38:33 ansible-client dbus-daemon: dbus[651]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Jan 13 19:38:33 ansible-client systemd: Started Network Manager Script Dispatcher Service.
+Jan 13 19:38:33 ansible-client nm-dispatcher: req:1 'dhcp4-change' [ens33]: new request (4 scripts)
+Jan 13 19:38:33 ansible-client nm-dispatcher: req:1 'dhcp4-change' [ens33]: start running ordered scripts...
+Jan 13 19:40:01 ansible-client systemd: Started Session 706 of user root.
+Jan 13 19:40:01 ansible-client systemd: Starting Session 706 of user root.
+Jan 13 19:50:01 ansible-client systemd: Started Session 707 of user root.
+Jan 13 19:50:01 ansible-client systemd: Starting Session 707 of user root.
+Jan 13 19:50:57 ansible-client dhclient[3529]: DHCPREQUEST on ens33 to 192.168.1.254 port 67 (xid=0x361ade63)
+Jan 13 19:50:57 ansible-client dhclient[3529]: DHCPACK from 192.168.1.254 (xid=0x361ade63)
+Jan 13 19:50:57 ansible-client NetworkManager[737]: <info>  [1578925257.4168] dhcp4 (ens33):   address 192.168.1.131
+Jan 13 19:50:57 ansible-client NetworkManager[737]: <info>  [1578925257.4178] dhcp4 (ens33):   plen 24 (255.255.255.0)
+Jan 13 19:50:57 ansible-client NetworkManager[737]: <info>  [1578925257.4178] dhcp4 (ens33):   server identifier 192.168.1.254
+Jan 13 19:50:57 ansible-client NetworkManager[737]: <info>  [1578925257.4178] dhcp4 (ens33):   lease time 1800
+Jan 13 19:50:57 ansible-client NetworkManager[737]: <info>  [1578925257.4179] dhcp4 (ens33):   nameserver '192.168.1.1'
+Jan 13 19:50:57 ansible-client NetworkManager[737]: <info>  [1578925257.4179] dhcp4 (ens33):   domain name 'localdomain'
+Jan 13 19:50:57 ansible-client NetworkManager[737]: <info>  [1578925257.4179] dhcp4 (ens33): state changed bound -> bound
+Jan 13 19:50:57 ansible-client dbus[651]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Jan 13 19:50:57 ansible-client systemd: Starting Network Manager Script Dispatcher Service...
+Jan 13 19:50:57 ansible-client dbus-daemon: dbus[651]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Jan 13 19:50:57 ansible-client dhclient[3529]: bound to 192.168.1.131 -- renewal in 814 seconds.
+Jan 13 19:50:57 ansible-client dbus[651]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Jan 13 19:50:57 ansible-client dbus-daemon: dbus[651]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Jan 13 19:50:57 ansible-client systemd: Started Network Manager Script Dispatcher Service.
+Jan 13 19:50:57 ansible-client nm-dispatcher: req:1 'dhcp4-change' [ens33]: new request (4 scripts)
+Jan 13 19:50:57 ansible-client nm-dispatcher: req:1 'dhcp4-change' [ens33]: start running ordered scripts...
