@@ -28,3 +28,6 @@ Here's the list of programs, and a short decription of what it does:
 22. rpm.pl      -> check if an rpm can be installed.
 23. file_find1.pl -> Finds text(.txt) files. 
 24. backup.pl   -> Finds files modified the previous day and then zips those files - kind of a backup.
+25. hash.pl     -> counts number of occurences uses hashes.
+26. hash_count_ip.pl -> Counts number of occurences of IP in the specified file.
+27. hash_stats.pl -> Sort arrays using sort function and using spaceship operator.
