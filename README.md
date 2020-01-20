@@ -31,3 +31,4 @@ Here's the list of programs, and a short decription of what it does:
 25. hash.pl     -> counts number of occurences uses hashes.
 26. hash_count_ip.pl -> Counts number of occurences of IP in the specified file.
 27. hash_stats.pl -> Sort arrays using sort function and using spaceship operator.
+28. sftp.pl      -> Uses Net::SFTP::Foreign module to transfer a file (sftp). 
